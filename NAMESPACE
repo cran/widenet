@@ -1,0 +1,25 @@
+########### Imports ############
+
+## From glmnet
+
+import(glmnet)
+
+## From relaxnet
+
+import(relaxnet)
+
+########### Compiled Code Stuff #############
+
+useDynLib(widenet, expandToOrder2, expandToOrder3,
+          checkColsBinary)
+
+
+
+########### Exports ############
+
+export(widenet)
+
+S3method(predict, widenet)
+S3method(print, widenet)
+S3method(summary, widenet)
+S3method(print, summary.widenet)

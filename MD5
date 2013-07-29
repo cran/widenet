@@ -1,0 +1,15 @@
+564bd45e74b0554f5fb3d2e9b25fa65e *DESCRIPTION
+bd76f78b14eaab6c7491268ee8da869c *NAMESPACE
+bb7fa58a8f4ad7bce553f186bc399bad *R/checkBinary.R
+219a8886d81c3fcf348ef9d88eadab0c *R/expandBasis.R
+06d6d82e08d008401c417dd8b8abd736 *R/predict.widenet.R
+a8861f6cabf12692523e71253b055653 *R/screen.R
+2a13e37a88f4a962b92fae70904c9d24 *R/summary.widenet.R
+c29684ee89b046c60b26764d05fc9cd7 *R/widenet.R
+e4da675003d282f8dd1de0f5767d6049 *R/widenet.cv.funs.R
+0a35fd59521d77dc353f3fd761c22264 *R/zzz.R
+61968a5ff86719fc801b890cbb382181 *man/predict.widenet.Rd
+1cb5d610dcbe05abca8aa3852ede706d *man/print.widenet.Rd
+32e02aec9012d0b57a549373f4f717fb *man/summary.widenet.Rd
+8ce261a2ec6c46945d45d565f11020a0 *man/widenet.Rd
+407232bc9a15f0964a276ce929ee120d *src/expandBasis.c
